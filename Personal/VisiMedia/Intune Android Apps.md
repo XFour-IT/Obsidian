@@ -1,0 +1,18 @@
+- [x] D365 Sales
+- [x] Power Apps
+- [x] 365 Admin
+- [x] Google Admin
+- [x] Office
+- [x] OneDrive
+- [x] SharePoint
+- [x] Word
+- [x] Excel
+- [x] PowerPoint
+- [x] Outlook
+- [x] Teams
+# Check assignment
+- [x] Word
+- [x] Excel
+- [x] PowerPoint
+- [x] Outlook
+- [x] Teams

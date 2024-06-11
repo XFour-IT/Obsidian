@@ -1,0 +1,3 @@
+- [ ] Mandate Google Chrome updates
+- [ ] Mandate Edge updates
+- [ ] Add Firefox to Company Portal

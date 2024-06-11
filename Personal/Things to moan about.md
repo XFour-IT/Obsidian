@@ -1,0 +1,3 @@
+- Company delivered a small order on a fucking pallet... AN ORDER OF FUCKING BOXES
+- Pinewood is a PITA to deal with
+- 

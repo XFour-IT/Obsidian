@@ -1,0 +1,2 @@
+- Fear only motivator pre-meds
+- Must think I'm going to be fired to do anything

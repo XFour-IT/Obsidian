@@ -1,0 +1,10 @@
+{
+  "accentColor": "#f55ca6",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "",
+  "enabledCssSnippets": [
+    "mermaid"
+  ],
+  "textFontFamily": "",
+  "nativeMenus": false
+}

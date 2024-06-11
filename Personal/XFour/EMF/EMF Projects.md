@@ -1,0 +1,2 @@
+- [Internet of Humans](Https://GitHub.com/benjisoft/Internet-Of-Humans)
+- [EMF Stuck Tally](https://github.com/benjisoft/EMFStuckTally) - Listen to MQTT and tweet/mastodon when incremented

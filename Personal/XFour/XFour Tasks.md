@@ -1,0 +1,27 @@
+---
+tags: ""
+---
+- [ ] Write [[Common Terms Glossary]] for Adam
+- [ ] Investigate taking salary before emp NI increase 
+- [x] Link CapOnTap to bank
+- [x] Bring FreeAgent up to date
+	- [x] Move Shockbyte to supplier account
+	- [x] Move Cloudflare to contact
+- [x] Work out [[Journal Entries]]
+	- Pre-SB Bal: £1,231.13
+	- Post-SB Bal: £1,247.22
+- [ ] Fix opening balances journal (balancing entry)
+- [x] Book a meeting with Kathy to discuss accounts
+- [ ] Expense codes for Uber
+- [ ] JM Wholesale Sync Setup
+- [ ] Entra groups for targeting
+- [ ] XFour Brand Centre
+- [ ] Toggl SSO
+- [ ] Mount Meraki switch under desk
+	- Weight? 
+- [ ] Return UGREEN charger? 
+- [ ] Set up Google SSO
+- [ ] Cloud Flare DMARC
+- [ ] Gym Membership for Adam (Tax/ BIK?)
+- [ ] Multiple work profiles android
+- [ ] Edit Obsidian vault from web? 

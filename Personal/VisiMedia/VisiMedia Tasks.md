@@ -1,0 +1,34 @@
+---
+tags: ""
+---
+- [ ] Check why CloudFlare zero-trust isn't offering Entra sign in
+- [ ] Clean out VM Entra groups
+- [ ] Trial DevBox for Selwood work
+- [ ] [M365 Lighthouse](https://lighthouse.microsoft.com/)
+- [ ] Fix vm.me SSL(?)
+- [ ] Update proofing language for all templates
+- [ ] Clear out M365 users
+- [ ] Clear bookmarks bar
+- [ ] Send billing details confirmation email
+	- [ ] Secure way to share info (WHMCS?)
+- [ ] Direct WHMCS support to Jira SM
+- [ ] WHMCS recaptcha
+- [ ] Data classification policy
+	- [ ] Viva Learn?
+- [ ] CSA STAR Cert (https://star.watch/en/star_submissions/new)
+- [ ] Clear any flagged emails from my PC
+- [ ] Reading uni application
+- [x] Test adding confluence using VM test user
+- [x] [[TFT Support Requests#Luke Bass License Cancellation|Cancel TFT License]]
+- [x] Write How to cancel M365 Licenses (ALSO)
+- [x] [[Move licenses to ALSO]]
+- [x] Check Cyber Essentials due date
+- [x] Cyber Essentials
+- [x] Import VM theme
+- [x] GET WATER
+- [x] Create Brand Site - only create
+- [x] Move templates
+- [x] Set as asset library
+- [x] Do hub bar
+- [x] Update Stripe 2FA
+- [x] Upload WHMCS logo

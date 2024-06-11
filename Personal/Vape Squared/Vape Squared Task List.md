@@ -1,0 +1,5 @@
+- [ ] Contact Stripe re: platform
+- [ ] Contact PayPal re: platform
+- [ ] Redo website
+- [x] Setup Vape Squared Limited
+- [x] Apply for NatWest account

@@ -1,0 +1,3 @@
+- sensors for domestic & commercial wheelie bins
+- fwd information to council
+- informs when collections need to be made

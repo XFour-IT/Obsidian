@@ -1,0 +1,9 @@
+- Small risk that people will mistakenly create erroneous cases if they can access the other case types
+	- The risk is increased if RedKite update solutions or implement a new button to allow users to create a case
+- Biggest risk is that we will end up with the same issue which we have at the moment. 
+	- Uncontrolled components in all live environments. 
+	- We don't know when this is going to trip us up
+	- Could delay future deployments
+	- Risk that the environments don't align
+		- Increases development time investigating these issues
+		- Wastes test time raising these bugs

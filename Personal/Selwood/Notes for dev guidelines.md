@@ -1,0 +1,7 @@
+- Modify only the model-driven app
+	- The sitemap will be automatically updated
+- Use the update function to deploy the solution
+	- This will not delete anything from the target environment
+	- If something needs to be deleted, clearly mark the object as "REMOVE - {name}"
+- Main: Managed
+- Automation: Unmanaged

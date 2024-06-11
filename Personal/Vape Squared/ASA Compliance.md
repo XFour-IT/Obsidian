@@ -1,0 +1,3 @@
+- No mentions of time-limited discounts
+- Factual advertising 
+- Remove any reference to sale

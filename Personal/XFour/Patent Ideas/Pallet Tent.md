@@ -1,0 +1,3 @@
+Tent that inflates from a palette form factor. 
+
+Wait hold on, why would we not just ship an inflatable tent on a pallet with all the stuff...

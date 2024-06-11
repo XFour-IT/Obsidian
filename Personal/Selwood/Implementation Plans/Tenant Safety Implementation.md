@@ -1,0 +1,4 @@
+- We need visibility on the touch points with the tenant
+	- Has the **tenant** been spoken to in the last year? 
+	- Has the **tenant** been seen in the last year? 
+- If the tenant has not engaged in x time, there needs to be a clear warning at the top of the page. 

@@ -1,0 +1,6 @@
+- RedKite quick alerts app
+- Create RedKite quick alert in Dynamics
+	- Upload image
+	- Setup conditions
+- JS FetchXML to trigger alerts
+	- Because it's FetchXML, users cannot utilise quick alerts without access to the data that is alerting. 

@@ -1,0 +1,7 @@
+- Research Freeze or Fawn - Sounds like I'm doing it all the time...
+- Thank rather than apologise
+	- "Thank you for waiting for me" rather than "Sorry I'm late"
+- Even if you can't go outside, looking at nature can improve mood. 
+	- Redecorate office with leaves/ outdoory things
+- =="My peers are more intelligent than I am" // "My peers are so stupid. I've tricked them that I belong here"==
+- 

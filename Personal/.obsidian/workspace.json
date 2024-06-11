@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "671873064c476538",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2d7335597ceacf4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ab6b24e79195e1d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9df937ce5f177118",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0fc4fbd33d1594d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bfe6283deea9511",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6ffb18f57270fb45",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7407260d822667cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d65d44e11aebb8ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "312e8aa90aeed044",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31551ba264ee493e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "602bb90df28e11ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "af6a60bc4a7c1f0f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "80359bb622bc65c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0ab6b24e79195e1d",
+  "lastOpenFiles": [
+    "Daily Notes/Daily - 11th June 2024.md",
+    "Daily Notes/Daily - 8th June 2024.md",
+    "XFour Ideas/Pane of Glass App.md",
+    "XFour/XFour SSO Strategy.md",
+    "XFour Ideas",
+    "Daily Notes/Daily - 4th June 2024.md",
+    "Daily Notes/Daily - 7th June 2024.md",
+    "Commercial Ideas/Commercial Ideas.md",
+    "VisiMedia/Intune Android Apps.md",
+    "Overtime.md",
+    "Commercial Ideas/D365 FML.md",
+    "Selwood/Solution Fixes - 07.06.2024.md",
+    "Curious Universe/Weekly Tasks/W.C. 03.06.2024.md",
+    "Curious Universe/BC Sync Setup Guide.md",
+    "Things to moan about.md",
+    "The Future™ Plan.md",
+    "Selwood/Removing unused components from live envs.md",
+    "Daily Notes/Daily Notes.md",
+    "Daily Notes/Daily - 6th June 2024.md",
+    "Curious Universe/Curious Universe.md",
+    "Curious Universe/Notes/06.06.2024 - Andy Meeting.md",
+    "Curious Universe/Notes/Notes.md",
+    "Curious Universe/Notes/23.05.2024 Andy Feedback.md",
+    "Curious Universe/Notes",
+    "Curious Universe/Weekly Tasks/W.C. 29.04.2024.md",
+    "Curious Universe/Weekly Tasks/W.C. 07.05.2024.md",
+    "Curious Universe/Weekly Tasks/W.C. 13.05.2024.md",
+    "Curious Universe/Weekly Tasks/Weekly Tasks.md",
+    "Curious Universe/Weekly Tasks",
+    "XFour/EMF/Retro",
+    "XFour/EMF/On Site",
+    "XFour/EMF/Prep",
+    "Tags",
+    "XFour/Patent Ideas",
+    "XFour/Adam Hub/Ben Task Lists",
+    "VisiMedia/Handover Docs",
+    "System/Media/View Design.png",
+    "System/Media/Pasted image 20240513152117.png",
+    "System/Media/Pasted image 20240508094313.png",
+    "Curious Universe/Business Processes/Pasted image 20240508120729.png"
+  ]
+}
